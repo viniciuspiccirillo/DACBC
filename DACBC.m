@@ -36,7 +36,7 @@ N_harm   = 15;
 %  SECTION 2 — DACBC core parameters
 % =========================================================================
 
-k_alpha_0     = 8;
+k_alpha_0     = 0.04;
 ds_init       = 0.04;
 ds_fold       = 0.04;
 rho_acbc      = 0.03;
